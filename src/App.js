@@ -8,6 +8,9 @@ function App() {
         <p>
           Welcome to NB Monster
         </p>
+          <p>
+             Schedule, run and share your Jupyter Notebooks
+          </p>
       </header>
     </div>
   );

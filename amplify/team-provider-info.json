@@ -1,0 +1,28 @@
+{
+    "staging": {
+        "awscloudformation": {
+            "AuthRoleName": "nbfire-staging-20220104153336-authRole",
+            "UnauthRoleArn": "arn:aws:iam::841502926761:role/nbfire-staging-20220104153336-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::841502926761:role/nbfire-staging-20220104153336-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "nbfire-staging-20220104153336-deployment",
+            "UnauthRoleName": "nbfire-staging-20220104153336-unauthRole",
+            "StackName": "nbfire-staging-20220104153336",
+            "StackId": "arn:aws:cloudformation:eu-west-1:841502926761:stack/nbfire-staging-20220104153336/aee25d60-6d73-11ec-a055-0282883d3f5b"
+        },
+        "categories": {
+            "function": {
+                "nbfire0195fc22CustomMessage": {
+                    "REDIRECTURL": "https://master.d2w3elmi1xkez.amplifyapp.com/",
+                    "EMAILSUBJECT": "Please confirm your nbfire email address",
+                    "EMAILMESSAGE": "Please click here to confirm your email address"
+                }
+            },
+            "auth": {
+                "nbfire0195fc22": {
+                    "hostedUIProviderCreds": "[]"
+                }
+            }
+        }
+    }
+}
